@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdelhamidKHELLADI
 - 👀 I’m interested in AI and DATA World
-- 🌱 I’m currently learning NLP
+- 🌱 I’m currently learning MLops
 - 📫 How to reach me: - linkedin.com/in/khelladi-abdelhamid
                        
   
